@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(241, 255, 219);
+}
+
+button{
+    color:maroon;
+    width: 110px;
+    height: 60px;
+}
+
+h2{
+    color:green;
+}
+
+details{
+    color: darkblue;
+}
+
+label{
+    color: chocolate;
+}

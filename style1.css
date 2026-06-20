@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(241, 255, 219);
+}
+
+fieldset{
+    background-color:greenyellow
+}
+
+button{
+    color:maroon;
+    width: 110px;
+    height: 60px;
+}
+
